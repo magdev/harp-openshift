@@ -1,0 +1,30 @@
+{
+    "name":"harp-openshift",
+    "version":"0.0.1",
+    "main":"lib/index.js",
+    "description":"Extend HarpJS to use it on OpenShift",
+    "homepage":"https://github.com/magdev/harp-openshift",
+    "bugs":"https://github.com/magdev/harp-openshift/issues",
+    "author":{
+        "name":"Marco Grätsch",
+        "email":"magdev3.0@gmail.com",
+        "url":"https://plus.google.com/+MarcoGrätsch"
+    },
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/magdev/harp-openshift"
+    },
+    "license":"MIT",
+    "files":[
+        "lib"
+    ],
+    "keywords":[
+        "openshift",
+        "harp"
+    ],
+    "dependencies":{
+        "harp":"~0.14.0",
+        "connect":"~2.9.0"
+    },
+    "readmeFilename":"README.md"
+}
