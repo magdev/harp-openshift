@@ -1,6 +1,6 @@
 # harp-openshift
 
-A simple helper to use HarpJS on OpenShift.
+A simple extension to run HarpJS on OpenShift.
 
 
 ## Install
