@@ -2,7 +2,7 @@
     "name":"harp-openshift",
     "version":"0.0.1",
     "main":"lib/index.js",
-    "description":"Extend HarpJS to use it on OpenShift",
+    "description":"A simple extension to run HarpJS on OpenShift",
     "homepage":"https://github.com/magdev/harp-openshift",
     "bugs":"https://github.com/magdev/harp-openshift/issues",
     "author":{
