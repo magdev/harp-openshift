@@ -1,6 +1,6 @@
 {
     "name":"harp-openshift",
-    "version":"0.0.6",
+    "version":"0.0.7",
     "main":"lib/index.js",
     "description":"A simple extension to run HarpJS on OpenShift",
     "homepage":"https://github.com/magdev/harp-openshift",
@@ -24,7 +24,8 @@
     ],
     "dependencies":{
         "harp":"~0.14.0",
-        "connect":"~2.9.0"
+        "connect":"~2.9.0",
+    	"compression":"~1.x"
     },
     "readmeFilename":"README.md"
 }
