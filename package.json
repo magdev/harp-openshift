@@ -16,7 +16,8 @@
     },
     "license":"MIT",
     "files":[
-        "lib"
+        "lib",
+        "LICENSE.md"
     ],
     "keywords":[
         "openshift",
