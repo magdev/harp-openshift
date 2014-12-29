@@ -1,7 +1,5 @@
 # harp-openshift
 
-_(doesn't work atm!)_
-
 A simple extension to run HarpJS on OpenShift.
 
 
