@@ -36,7 +36,7 @@ Add the packages harp and harp-openshift dependencies to the package.json, remov
 
 ### Initialize the HarpJS application
 
-Next we initialize the HarpJS application into the subdirectory _harp
+Next initialize the HarpJS application into the subdirectory _harp
 
 ```bash
 harp init _harp
