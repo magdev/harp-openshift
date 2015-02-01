@@ -5,7 +5,7 @@ A simple extension to run HarpJS on OpenShift.
 
 ## Install
 
-`npm install mashape-tools`
+Execute `npm install mashape-tools --save` in your project folder.
 
 
 ## Usage
